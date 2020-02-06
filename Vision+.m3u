@@ -15,6 +15,9 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",INDOSIAR 2
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=EB5DAF3F0F2103C3A892BE5937167DE35103F89B&profile=pass
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
 
@@ -155,6 +158,24 @@ https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southea
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MUSIC",CHANNEL V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV-avc1_2499968=11-ChannelV-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-id="1898e5f1491a595474f3401d6021a161"  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=0075D1B51E7636312EF9D1CE0CB5EE79B25F3F40&profile=pass
+
+#EXTINF:-1 tvg-id="562a2ef4c0816c592d34d74efc55b35f"  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=827D4321F9CAC5C5190A62ED52CF898B6AB6986F&profile=pass
+
+#EXTINF:-1 tvg-id="a6991a2d9e6d8198f94b3daf95f562f5"  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=BC3F62962957A545FF2FCFFCDD109A630F050061&profile=pass
+
+#EXTINF:-1 tvg-id="9ea370ce73cd5a22f3814b2e2ac02bbe"  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=12B8D0AFD0DF1E540112E98517F249D314CC37C4&profile=pass
+
+#EXTINF:-1 tvg-id="97187cf98cc3a3d2419955eea35c1bf5"  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=1C717A0D3F3350CBA4B8519503DABB156C09BFC2&profile=pass
+
+#EXTINF:-1 tvg-id="32105947315ce3717a05d57aa09ea673"  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=25D6186F63BD65A300657BDF78B9532138071EF9&profile=pass
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",TVN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
