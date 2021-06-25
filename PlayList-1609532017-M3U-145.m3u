@@ -13,7 +13,7 @@ http://210.210.155.35:80/qwr9ew/s/s03/02.m3u8?app_type=mobile&userid=2m4n6yjvyen
 http://210.210.155.35:80/qwr9ew/s/s12/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=RTV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", METRO TV
-http://210.210.155.35:80/uq2663/h/h12/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=Metro_TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TRANS 7
 http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=Trans7
@@ -25,10 +25,10 @@ http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=2m4n6yjvye
 http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=Trans_TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", NET.
-http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=NET.
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", KOMPAS TV
-http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
+http://rr2.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI NASIONAL
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
@@ -195,18 +195,104 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", ABU DHABI SPORTS 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORT", SPORT TV 1
 http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORT", SPORT TV 2
 http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORT", SPORT TV 3
 http://51.15.0.141:88/PT_SPORT_TV_3_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORT", SPORT TV 4
 http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORT", SPORT TV 5
 http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", thrill HD
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", CINEMA WORLD
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", BLUE ANT EXTREME
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", KIX SD
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", GEM
+http://45.126.83.51/uq2663/h/h19/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", Toonmax
+http://45.126.83.51/qwr9ew/s/s50/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", 3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", Maleo
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", POP Musik
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", 30A Music
+https://30a-tv.com/music.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", MY eGG Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", TV5 Monde Asie
+https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", TV5 Monde Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", TV5 Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", Telesur
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", TRT World
+https://tv-trtworld.live.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", RTB Sukmaindera
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", AL IMAN
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
