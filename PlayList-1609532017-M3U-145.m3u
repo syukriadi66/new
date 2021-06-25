@@ -195,19 +195,19 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", ABU DHABI SPORTS 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORT", SPORT TV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", SPORT TV 1
 http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORT", SPORT TV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", SPORT TV 2
 http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORT", SPORT TV 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", SPORT TV 3
 http://51.15.0.141:88/PT_SPORT_TV_3_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORT", SPORT TV 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", SPORT TV 4
 http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORT", SPORT TV 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", SPORT TV 5
 http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Without category", thrill HD
