@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31rYH-oYMshQxa9gZxNamZO4PBV1aWRDb2A&usqp=CAU" group-title="SPORT", BEINSPORTS 1 FR
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31rYH-oYMshQxa9gZxNamZO4PBV1aWRDb2A&usqp=CAU" group-title="SPORT", BEINSPORTS 2 FR
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31rYH-oYMshQxa9gZxNamZO4PBV1aWRDb2A&usqp=CAU" group-title="SPORT", BEINSPORTS 3 FR
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 1
+http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 2
+http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 3
+http://51.15.0.141:88/PT_SPORT_TV_3_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 4
+http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 5
+http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
+
