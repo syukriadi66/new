@@ -9,18 +9,30 @@ http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31rYH-oYMshQxa9gZxNamZO4PBV1aWRDb2A&usqp=CAU" group-title="SPORT", BEINSPORTS 3 FR
 http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/news.22bet.com/wp-content/uploads/2020/04/What-Will-Happen-if-Euro-2020-is-Renamed-1.png" group-title="SPORT", EUROSPORT 1
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/news.22bet.com/wp-content/uploads/2020/04/What-Will-Happen-if-Euro-2020-is-Renamed-1.png" group-title="SPORT", EUROSPORT 2
+http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/news.22bet.com/wp-content/uploads/2020/04/What-Will-Happen-if-Euro-2020-is-Renamed-1.png" group-title="SPORT", BT SPORT 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/news.22bet.com/wp-content/uploads/2020/04/What-Will-Happen-if-Euro-2020-is-Renamed-1.png" group-title="SPORT", BT SPORT 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 1
-http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 2
-http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 3
-http://51.15.0.141:88/PT_SPORT_TV_3_HD/index.m3u8
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 4
-http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFHPdVO8VJ68_sgm0Mx9ERLuMP6EznZkBwJ8Zz9pZFg_R0w3L0ysQbHI&s=10" group-title="SPORT", SPORT TV 5
-http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
