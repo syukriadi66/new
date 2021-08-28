@@ -107,31 +107,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=kplus&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="USEETV", Sony GEM TV
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="USEETV", Sony One
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="USEETV", Aniplus
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
-#EXTINF:-1 tvg-id="" tvg-name="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="USEETV",CN
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="USEETV", Animax
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="USEETV", KBS World
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=kbsworld&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="USEETV", Lifetime
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=lifetime&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="USEETV", Ctiasia
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="USEETV", Bioskop Indonesia
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="USEETV", ZBioskop
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=zbioskop&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="USEETV", Thrill
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=thrill&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="USEETV", Celestial Movie
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="USEETV", Cinema World
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="USEETV", Flik
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0u
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="USEETV", Galaxy
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="USEETV", Galaxy Premium
@@ -152,6 +128,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3
 #EXTINF:-1 tvg-language="ind" tvg-id="Erz.&prive" group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiD07BwyrnKGd4sBpldzUO3KJTHCnSLHH2iw&usqp=CAU", &Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="MOVIES", Thrill
+http://rr2.dens.tv/s/s34/index2.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-id="tvnmovies.id" tvg-name="tvN Movies AXC" tvg-logo="https://images.useetv.com/logo_tvnmovies_big.png" ,tvN Movies 
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 
@@ -164,29 +143,29 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w183474
 #EXTINF: -1 tvg-name= "Skynetsports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 3
 http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist_w1549922984.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="(AR) BEINSPORT PREMIUM 1" tvg-logo="" group-title="VIP",(AR) BEINSPORT PREMIUM 1
+#EXTINF:-1 tvg-id="" tvg-name="(AR) BEINSPORT PREMIUM 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU" group-title="VIP",(AR) BEINSPORT PREMIUM 1
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-1HD VIP" tvg-logo="http://acccam.com/channels-logo/QATAR/be_in_mena_sports_01.png" group-title="VIP",beIN-Sports-1HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-1HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU" group-title="VIP",beIN-Sports-1HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-2HD VIP" tvg-logo="http://acccam.com/channels-logo/QATAR/be_in_mena_sports_02.png" group-title="VIP",beIN-Sports-2HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-2HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU" group-title="VIP",beIN-Sports-2HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-3HD VIP" tvg-logo="http://hbox.cdnss.me/3.png" group-title="VIP",beIN-Sports-3HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-3HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU" group-title="VIP",beIN-Sports-3HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-4HD VIP" tvg-logo="http://hbox.cdnss.me/4.png" group-title="VIP",beIN-Sports-4HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-4HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU" group-title="VIP",beIN-Sports-4HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-5HD VIP" tvg-logo="http://hbox.cdnss.me/5.png" group-title="VIP",beIN-Sports-5HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-5HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU" group-title="VIP",beIN-Sports-5HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-6HD VIP" tvg-logo="http://hbox.cdnss.me/6.png" group-title="VIP",beIN-Sports-6HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-6HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU" group-title="VIP",beIN-Sports-6HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-7HD VIP" tvg-logo="http://hbox.cdnss.me/7.png" group-title="VIP",beIN-Sports-7HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-7HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU7.png" group-title="VIP",beIN-Sports-7HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-8HD VIP" tvg-logo="http://hbox.cdnss.me/8.png" group-title="VIP",beIN-Sports-8HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-8HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU8.png" group-title="VIP",beIN-Sports-8HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-9HD VIP" tvg-logo="http://hbox.cdnss.me/9.png" group-title="VIP",beIN-Sports-9HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-9HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU9.png" group-title="VIP",beIN-Sports-9HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-10HD VIP" tvg-logo="http://hbox.cdnss.me/10.png" group-title="VIP",beIN-Sports-10HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-10HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU10.png" group-title="VIP",beIN-Sports-10HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-11HD VIP" tvg-logo="http://hbox.cdnss.me/11.png" group-title="VIP",beIN-Sports-11HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-11HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU11.png" group-title="VIP",beIN-Sports-11HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-12HD VIP" tvg-logo="http://hbox.cdnss.me/12.png" group-title="VIP",beIN-Sports-12HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-12HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU12.png" group-title="VIP",beIN-Sports-12HD VIP
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5003.m3u8
