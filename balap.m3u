@@ -59,41 +59,20 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-country="ID" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI NASIONAL
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF: -1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="ช่อง Sports", beIN Sports 1 ID
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563152
-#EXTINF: -1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="ช่อง Sports", beIN Sports 2 ID
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563153
-#EXTINF: -1 tvg-name="Champions 1" tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="ช่อง Sports", Champions 1
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563154
-#EXTINF: -1 tvg-name="Champions 2" tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="ช่อง Sports", Champions 2
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563155
-#EXTINF: -1 tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="ช่อง Sports", Usee Sport 1
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563156
-#EXTINF: -1 tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="ช่อง Sports", Usee Sport 2
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563157
-
-#EXTINF: -1 tvg-name="MY - FOX SPORTS HD" group-title="ช่อง Sports", MY - FOX SPORTS HD
+#EXTINF: -1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOX Sport 1" tvg-logo="https://i.ibb.co/7KwFrKz/bhyd.png" group-title="ช่อง Sports", FOX Sport 1
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745744
-#EXTINF: -1 tvg-name="MY - FOX SPORTS 2 HD" group-title="ช่อง Sports", MY - FOX SPORTS 2 HD
+
+#EXTINF: -1 tvg-id="FOXSports2.MACAN" tvg-name="FOX Sport 2" tvg-logo="https://i.ibb.co/CvnK56X/ey.png" group-title="ช่อง Sports", FOX Sport 2
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745745
-#EXTINF: -1 tvg-name="MY - FOX SPORTS 3 HD" group-title="ช่อง Sports", MY - FOX SPORTS 3 HD
+
+#EXTINF: -1 tvg-id="FOXSports3.MACAN" tvg-name="FOX Sport 3" tvg-logo="https://i.ibb.co/tL5n9cw/sdgs.png" group-title="ช่อง Sports", FOX Sport 3
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745746
-#EXTINF: -1 tvg-name="MY - beIN SPORTS" group-title="ช่อง Sports", MY - beIN SPORTS
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745747
-#EXTINF: -1 tvg-name="MY - bEIN MAX" group-title="ช่อง Sports", MY - bEIN MAX
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745748
-#EXTINF: -1 tvg-name="MY - EUROSPORT HD" group-title="ช่อง Sports", MY - EUROSPORT HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745749
-#EXTINF: -1 tvg-name="MY - WWE NETWORK" group-title="ช่อง Sports", MY - WWE NETWORK
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745750
-#EXTINF: -1 tvg-name="MY - GOLF CHANNEL HD" group-title="ช่อง Sports", MY - GOLF CHANNEL HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745751
+
 #EXTINF: -1 tvg-name= "Skynetsports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU",Skynetsport 1
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist_w2098499287.m3u8
+
 #EXTINF: -1 tvg-name= "Skynetsports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU",Skynetsport 2
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w1834747878.m3u8
+
 #EXTINF: -1 tvg-name= "Skynetsports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU",Skynetsport 3
 http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist_w1549922984.m3u8
