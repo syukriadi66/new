@@ -47,7 +47,7 @@ http://210.210.155.35:80/qwr9ew/s/s12/02.m3u8?app_type=mobile&userid=2m4n6yjvyen
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/1361146630527807489/ZvWs_0w7_400x400.jpg" group-title="INDONESIA",NET.
 http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=NET.
 
-#EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/1371327041509810177/5XZxIVtV_400x400.jpg" group-title="INDONESIA",KOMPAS TV
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVrZ1z0C5DNzgKTDLlJmzbvJnb2jKf9KE9A&usqp=CAU" group-title="INDONESIA",KOMPAS TV
 http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
 
 #EXTINF:-1 tvg-id="Erz.BeritaSatu.id" tvg-name="BeritaSatu" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" tvg-url="" group-title="INDONESIA",BeritaSatu
@@ -58,6 +58,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOX Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkx2zyniFx6MAHf3JnoR_J1K7NQh-tTTDpSg&usqp=CAU" group-title="OLAHRAGA", MOTO GP
+https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=st=1630148878~exp=1630177491~acl=/hls/ipfmix/*~hmac=c7d1361a2f0b9d2ed90cdb0be260f62c48113413440a09d06c8ba4b553c358dc&start=1630137130&
 
 #EXTINF: -1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOX Sport 1" tvg-logo="https://i.ibb.co/7KwFrKz/bhyd.png" group-title="OLAHRAGA", FOX Sport 1
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745744
