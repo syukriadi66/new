@@ -83,6 +83,30 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbVVqF_eYVR8TcTCdmUCZHAm4JPqz4HFZ2uA&usqp=CAU" group-title="OLAHRAGA", NONTON BOLA
 https://google-me.cdn.booyah.live/hls/113137/23672380.m3u8
 
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIrwi9JeqiZShhndVxH1EmLyxWU_rE7yA2A&usqp=CAU",ELEVEN SPORTS 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIrwi9JeqiZShhndVxH1EmLyxWU_rE7yA2A&usqp=CAU",ELEVEN SPORTS 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 1
+http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 2
+http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 3
+http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 4
+http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 5
+http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 6
+http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU" group-title="OLAHRAGA",Матч! Футбол 1 HD
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU" group-title="OLAHRAGA",Матч! Футбол 2 HD
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU" group-title="OLAHRAGA",Матч! Футбол 3 HD
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+
 #EXTINF: -1 tvg-name= "Skynetsports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 1
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist_w2098499287.m3u8
 
@@ -146,34 +170,12 @@ http://rr2.dens.tv/s/s34/index2.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="tvnmovies.id" tvg-name="tvN Movies AXC" tvg-logo="https://images.useetv.com/logo_tvnmovies_big.png" ,tvN Movies 
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 
-#EXTINF:-1 group-title="DEPORTES 2" tvg-logo="https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png",ELEVEN SPORTS 1 HD
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES 2" tvg-logo="https://i.ibb.co/KjzD1QG/Eleven-Sports2logobyvovanloc.png",ELEVEN SPORTS 2 HD
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 1
-http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 2
-http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 3
-http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 4
-http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 5
-http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",HOL | ESPN 6
-http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2", UFC 
+#EXTINF:-1 tvg-logo="OLAHRAGA" group-title="FOOTBALL2", UFC 
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2", UFC 2
+#EXTINF:-1 tvg-logo="OLAHRAGA" group-title="FOOTBALL2", UFC 2
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 1 HD
-https://chostv.mobie.in/choos/sports/matchqy1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 2 HD
-https://chostv.mobie.in/choos/sports/matchqy2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 3 HD
-https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 1 Ukraine
 https://chostv.mobie.in/choos/sports/qyt1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 2 Ukraine
