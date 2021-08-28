@@ -80,10 +80,22 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_big.png" group-title="OLAHRAGA"  tvg-id="Riyan.4e732ced3463d06de0ca9a15b6153677.Coday" tvg-name"[CODAY] Champion TV 1 _USEETV",Champion TV 1 _USEE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-country="ID" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI SPORT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbVVqF_eYVR8TcTCdmUCZHAm4JPqz4HFZ2uA&usqp=CAU" group-title="OLAHRAGA", NONTON BOLA
+https://google-me.cdn.booyah.live/hls/113137/23672380.m3u8
+
+#EXTINF: -1 tvg-name= "Skynetsports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist_w2098499287.m3u8
+
+#EXTINF: -1 tvg-name= "Skynetsports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w1834747878.m3u8
+
+#EXTINF: -1 tvg-name= "Skynetsports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 3
+http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist_w1549922984.m3u8
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="OLAHRAGA",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-country="ID" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI SPORT 2
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="OLAHRAGA",TVRI SPORT 2
 http://rr2.dens.tv/s/s107/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png?v=2.0.0.13" group-title="OLAHRAGA"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] Fox Sport 1 _USEETV",Fox Sport 1 _USEE
@@ -134,15 +146,28 @@ http://rr2.dens.tv/s/s34/index2.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="tvnmovies.id" tvg-name="tvN Movies AXC" tvg-logo="https://images.useetv.com/logo_tvnmovies_big.png" ,tvN Movies 
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 
-#EXTINF: -1 tvg-name= "Skynetsports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 1
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist_w2098499287.m3u8
-
-#EXTINF: -1 tvg-name= "Skynetsports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 2
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w1834747878.m3u8
-
-#EXTINF: -1 tvg-name= "Skynetsports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 3
-http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist_w1549922984.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 01" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 01
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 01*" tvg-logo="http://smarters.ddns.net:8000/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 01*
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 02" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 02
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 02*" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 02*
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 03" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 03
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 03*" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 03*
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport USA EN" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport USA EN
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport USA SP" tvg-logo="http://smarters.ddns.net:8000/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport USA SP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport Xtra 1" tvg-logo="http://smarters.ddns.net:8000/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport Xtra 1
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport Xtra 2" tvg-logo="http://smarters.ddns.net:8000/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport Xtra 2
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport XTRA USA" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport XTRA USA
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7961.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="(AR) BEINSPORT PREMIUM 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU" group-title="VIP",(AR) BEINSPORT PREMIUM 1
 http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-1HD VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHst0l2KDxDPRbheE-SSbH6DwyM9dmRjJicA&usqp=CAU" group-title="VIP",beIN-Sports-1HD VIP
