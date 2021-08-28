@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZzOKCWZcdQTbxvueQaVaDKqW_Lpp-4pNtQ&usqp=CAU" group-title="INDONESIA",INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 
@@ -38,9 +39,6 @@ http://cdn-livetv-studio.metube.id/inewstv_480/index.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RcdSXmC65OE7ufo2zh6_hHBr1zsKachCCA&usqp=CAU" group-title="INDONESIA",IDX CHANNEL
 http://cdn-livetv-studio.metube.id/idxchannel_480/index.m3u8
 
-#EXTINF:-1 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RcdSXmC65OE7ufo2zh6_hHBr1zsKachCCA&usqp=CAU" group-title="INDONESIA",MNC SPORT
-http://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
-
 #EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="INDONESIA",RTV
 http://210.210.155.35:80/qwr9ew/s/s12/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=RTV
 
@@ -61,6 +59,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOX Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkx2zyniFx6MAHf3JnoR_J1K7NQh-tTTDpSg&usqp=CAU" group-title="OLAHRAGA", MOTO GP
 https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=st=1630148878~exp=1630177491~acl=/hls/ipfmix/*~hmac=c7d1361a2f0b9d2ed90cdb0be260f62c48113413440a09d06c8ba4b553c358dc&start=1630137130&
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RcdSXmC65OE7ufo2zh6_hHBr1zsKachCCA&usqp=CAU" group-title="OLAHRAGA",MNC SPORT
+http://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="OLAHRAGA"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports2 _USEE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
@@ -131,13 +132,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1 tvg-language="ind" tvg-id="Erz.&prive" group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiD07BwyrnKGd4sBpldzUO3KJTHCnSLHH2iw&usqp=CAU", &Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-1 tvg-language="ind" tvg-id="Erz.&pictures" group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6OC7JsqSFcpG_S4NdRxZ2z-HwS2k2RRClmw&usqp=CAU", &Pictures HD
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="MOVIES",Warner TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="tvnmovies.id" tvg-name="tvN Movies AXC" tvg-logo="https://images.useetv.com/logo_tvnmovies_big.png" ,tvN Movies 
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
