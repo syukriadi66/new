@@ -59,20 +59,20 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOX Sport 1" tvg-logo="https://i.ibb.co/7KwFrKz/bhyd.png" group-title="ช่อง Sports", FOX Sport 1
+#EXTINF: -1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOX Sport 1" tvg-logo="https://i.ibb.co/7KwFrKz/bhyd.png" group-title="OLAHRAGA", FOX Sport 1
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745744
 
-#EXTINF: -1 tvg-id="FOXSports2.MACAN" tvg-name="FOX Sport 2" tvg-logo="https://i.ibb.co/CvnK56X/ey.png" group-title="ช่อง Sports", FOX Sport 2
+#EXTINF: -1 tvg-id="FOXSports2.MACAN" tvg-name="FOX Sport 2" tvg-logo="https://i.ibb.co/CvnK56X/ey.png" group-title="OLAHRAGA", FOX Sport 2
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745745
 
-#EXTINF: -1 tvg-id="FOXSports3.MACAN" tvg-name="FOX Sport 3" tvg-logo="https://i.ibb.co/tL5n9cw/sdgs.png" group-title="ช่อง Sports", FOX Sport 3
+#EXTINF: -1 tvg-id="FOXSports3.MACAN" tvg-name="FOX Sport 3" tvg-logo="https://i.ibb.co/tL5n9cw/sdgs.png" group-title="OLAHRAGA", FOX Sport 3
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745746
 
-#EXTINF: -1 tvg-name= "Skynetsports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU",Skynetsport 1
+#EXTINF: -1 tvg-name= "Skynetsports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 1
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist_w2098499287.m3u8
 
-#EXTINF: -1 tvg-name= "Skynetsports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU",Skynetsport 2
+#EXTINF: -1 tvg-name= "Skynetsports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 2
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w1834747878.m3u8
 
-#EXTINF: -1 tvg-name= "Skynetsports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU",Skynetsport 3
+#EXTINF: -1 tvg-name= "Skynetsports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 3
 http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist_w1549922984.m3u8
