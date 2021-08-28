@@ -163,3 +163,30 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w183474
 
 #EXTINF: -1 tvg-name= "Skynetsports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vu3Z5RcIB194Z-qr4FSRv8n0lux-cneLMg&usqp=CAU" group-title="OLAHRAGA", Skynetsport 3
 http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist_w1549922984.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="(AR) BEINSPORT PREMIUM 1" tvg-logo="" group-title="VIP",(AR) BEINSPORT PREMIUM 1
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/7936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-1HD VIP" tvg-logo="http://acccam.com/channels-logo/QATAR/be_in_mena_sports_01.png" group-title="VIP",beIN-Sports-1HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-2HD VIP" tvg-logo="http://acccam.com/channels-logo/QATAR/be_in_mena_sports_02.png" group-title="VIP",beIN-Sports-2HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-3HD VIP" tvg-logo="http://hbox.cdnss.me/3.png" group-title="VIP",beIN-Sports-3HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-4HD VIP" tvg-logo="http://hbox.cdnss.me/4.png" group-title="VIP",beIN-Sports-4HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-5HD VIP" tvg-logo="http://hbox.cdnss.me/5.png" group-title="VIP",beIN-Sports-5HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-6HD VIP" tvg-logo="http://hbox.cdnss.me/6.png" group-title="VIP",beIN-Sports-6HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-7HD VIP" tvg-logo="http://hbox.cdnss.me/7.png" group-title="VIP",beIN-Sports-7HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-8HD VIP" tvg-logo="http://hbox.cdnss.me/8.png" group-title="VIP",beIN-Sports-8HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-9HD VIP" tvg-logo="http://hbox.cdnss.me/9.png" group-title="VIP",beIN-Sports-9HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-10HD VIP" tvg-logo="http://hbox.cdnss.me/10.png" group-title="VIP",beIN-Sports-10HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-11HD VIP" tvg-logo="http://hbox.cdnss.me/11.png" group-title="VIP",beIN-Sports-11HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN-Sports-12HD VIP" tvg-logo="http://hbox.cdnss.me/12.png" group-title="VIP",beIN-Sports-12HD VIP
+http://hbox.cdnss.me:80/live/tolgax1x/tolgax1x/5003.m3u8
