@@ -170,13 +170,80 @@ http://rr2.dens.tv/s/s34/index2.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="tvnmovies.id" tvg-name="tvN Movies AXC" tvg-logo="https://images.useetv.com/logo_tvnmovies_big.png" ,tvN Movies 
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 
-#EXTINF:-1 tvg-logo="OLAHRAGA" group-title="FOOTBALL2", UFC 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU"  group-title="OLAHRAGA",UFC 
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="OLAHRAGA" group-title="FOOTBALL2", UFC 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU"  group-title="OLAHRAGA",UFC 2
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 1 Ukraine
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU"  group-title="OLAHRAGA",Football 1 Ukraine
 https://chostv.mobie.in/choos/sports/qyt1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 2 Ukraine
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU"  group-title="OLAHRAGA",Football 2 Ukraine
 https://chostv.mobie.in/choos/sports/qyt2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",ABC
+http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",A&E
+http://31.220.41.88:8081/live/us-ae.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",AMC
+http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",CBS
+http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",COMEDY CENTRAL
+http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",DAVE
+http://31.220.41.88:8081/live/dave.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",FOX
+http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",FX
+http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",FXX
+http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",FREEFORM
+http://31.220.41.88:8081/live/us-freeform.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",SYFY
+http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",TBS
+http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",TNT
+http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",USA NETWORK
+http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",CINEMAX
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",HALLMARK
+http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",HBO
+http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",LIFETIME
+http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",PARAMOUNT
+http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",SHOWTIME
+http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",SKY MOVIES PREMIERE
+http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",BOOMERANG
+http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",CARTOON NETWORK
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",DISNEY
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",DISNEY XD
+http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",Nick
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",Animal Planet
+http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png" , DISCOVERY CHANNEL
+http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",Bein Sports
+http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",ESPN
+http://31.220.41.88:8081/live/espnusahd.stream/chunks.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",ESPN 2
+http://31.220.41.88:8081/live/espn2hd.stream/chunks.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",FS2
+http://31.220.41.88:8081/live/foxsports2.stream/chunks.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",ABC NEWS
+http://31.220.41.88:8081/live/us-abcnews.stream/playlist.m3u8?token=null
