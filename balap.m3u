@@ -87,8 +87,11 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkjX0oq6NuVH_XT10LdY8f6KUK7xq33Q-sg&usqp=CAU" group-title="ISLAMI",WESAL TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w2106987031.m3u8
 
-#EXTINF: -1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOX Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkx2zyniFx6MAHf3JnoR_J1K7NQh-tTTDpSg&usqp=CAU" group-title="OLAHRAGA", MOTO GP
-https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=st=1630148878~exp=1630177491~acl=/hls/ipfmix/*~hmac=c7d1361a2f0b9d2ed90cdb0be260f62c48113413440a09d06c8ba4b553c358dc&start=1630137130&
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkx2zyniFx6MAHf3JnoR_J1K7NQh-tTTDpSg&usqp=CAU" group-title="OLAHRAGA",MOTO GP 1
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8?motogp
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkx2zyniFx6MAHf3JnoR_J1K7NQh-tTTDpSg&usqp=CAU" group-title="OLAHRAGA",MOTO GP 2
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=?motogp
 
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RcdSXmC65OE7ufo2zh6_hHBr1zsKachCCA&usqp=CAU" group-title="OLAHRAGA",MNC SPORT
 http://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
