@@ -68,7 +68,52 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI 3 Budaya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Jakarta
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Bandung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Bali
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Jawa Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Jawa Timur
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Kalbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Kalsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Kaltim
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Kalteng
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Papua
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Riau
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Sulsel Makasar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Sulteng Palu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Sulut Manado
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH"tvg-logo="https://i.imgur.com/wIh3qZo.png" , TVRI Sumatra Selatan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="MALAYSIA",  tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png" , TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",  tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png" , TV2
@@ -253,244 +298,51 @@ https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 #EXTINF:-1 group-title="RELIGI",  tvg-logo="https://i.postimg.cc/h42KLq47/MADANI-TV.png" , MADANI TV
 https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" , Cocoro
-https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2FCountry-Boy-Kid-Videos.png?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=9ac04ff1b743deaf39f243fef93ceded" , Country Boy Kids Video (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/unYHTWg.png" , Cute Zone (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" , EBS KIDS (360p)
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://static.ebs.co.kr/www/common/img/kids/head_logo_kids.gif" , EBS Kids (360p)
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/RJAT25i.jpg" , Enki Benki
-http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/uRess78.png" , FGTV (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/umyEio1.jpg" , Fireman Sam
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/SfJuMjV.png" , Fun Zone (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/hWbVgsR.jpg" , Giggle Mug
-https://janson-gigglemug-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/CvbLApY.png" , Giggle Zone (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  ,Gravity Fouls
-https://autopilot.catcast.tv/content/38105/index.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/mMWq0Kn.png" , Gulli (540p)
-https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:-1 group-title="KIDS",  ,Gulli Girl (576p) [Not 24/7]
-http://188.40.68.167/russia/gulli_girl/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" , HappyKids
-https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" , HappyKids Junior
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/Qubo_logo_2012.png/revision/latest?cb=20150915211649" , Ion Qubo
-https://ion-qubo-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  ,JimJam Россия (576p)
-http://188.40.68.167/russia/jimjam/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/2Ybvtlg.png" , kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KartoonFunTime_209x209.png?raw=true" , Kartoon Circus
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/NOX2zse.png" , Ketchup TV
-https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  ,Kid Gamer TV
-https://studio71-roku-us.amagi.tv/hls/amagi_hls_data_studio71A-studio71roku/CDN/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/dSPmDU7.png" , Kid Gamer TV (1080p)
-https://studio71-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://pbs.twimg.com/profile_images/633357710969303040/ZKJg46ZY.jpg" , Kid Genius
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukidgenius/CDN/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/MaFtbM5.png" , Kidoodle.TV (1080p)
-http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/MaFtbM5.png" , Kidoodle.TV
-http://kidoodletv-kdtv-3.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/MaFtbM5.png" , Kidoodle.TV (720p)
-https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/aP8Wz2G.png" , Kidoodle.TV
-https://kidoodletv-kdtv-2.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/7sUmqv2.png" , KIDS TV
-http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/KidsClick.png" , KidsClick [Geo-blocked]
-https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/ZbAVzad.png" , KidsFlix
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/19namZP.jpg" , Kidz Bop
-https://kidzbop-rokuus.amagi.tv/hls/amagi_hls_data_kidzbopAA-kidzbop-roku-us/CDN/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/aNVzKYJ.png" , Kuriakos Kids (1080p)
-http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:-1 group-title="KIDS",  ,Lale
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/xePwW13.png" , Lego Channel (1080p)
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/xePwW13.png" , Lego Looney Tunes (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/EqvWDU4.jpg" , Lets Play Minecraft (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/AeHlXnK.jpg" , Mondo Kids (720p)
-https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true" , Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" , New Kid TV
-https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" , New Kid TV (720p)
-https://newidco-newkid-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/ufHOxMN.png" , Nick (East)
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://static.epg.best/sa/NickJr.sa.png" , Nick Jr.
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" , Nickelodeon HD
-http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/ambc9le.png" , PBS Kids 68.2 (KETKY)
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/ambc9le.png" , PBS Kids Arizona (KAET-DT4)
-https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/1MGJg18.jpg" , Pinkfong Baby Shark
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/CMRkI5N.jpg" , Planeta Kids (720p)
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" , Pluto TV After School Cartoons
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" , Pluto TV Animakids
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" , Pluto TV Animakids (Spain)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=905&deviceId=5f1aabee6f4a2c00076a322c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" , Pluto TV Animakids Plus
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0b44cc331900075e7769/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5e8b551ddcd25500072c4dad/colorLogoPNG.png" , Pluto TV Beyblade Burst Nick
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&deviceId=5e8b551ddcd25500072c4dad&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5e8b551ddcd25500072c4dad/colorLogoPNG.png" , Pluto TV Beyblade Burst Nick
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5e8b60419becf60008c841fd/colorLogoPNG.png" , Pluto TV Blaze Nick
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=ebc579c0-0712-11eb-97af-0242ac110002&deviceId=5e8b60419becf60008c841fd&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5e8b564ff59d130007363823/colorLogoPNG.png" , Pluto TV Blue's Clues Nick
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=29e99f3f-0713-11eb-a59f-0242ac110002&deviceId=5e8b564ff59d130007363823&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" , Pluto TV Bob Esponja
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" , Pluto TV Bob Esponja Plus
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png" , Pluto TV Bob l'éponge
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png" , Pluto TV Bob l'éponge
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5e8b5a4bb7da5c0007e5c9e9/colorLogoPNG.png" , Pluto TV Bubble Guppies
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=5c631817-0713-11eb-9df2-0242ac110002&deviceId=5e8b5a4bb7da5c0007e5c9e9&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/562ea53fa9060c5a7d463e74/colorLogoPNG.png" , Pluto TV Classic Toons TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=548&deviceId=562ea53fa9060c5a7d463e74&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" , Pluto TV Dora TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" , Pluto TV Dora TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" , Pluto TV Dora TV (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" , Pluto TV Garfield
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" , Pluto TV Junior
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" , Pluto TV Junior
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" , Pluto TV Junior
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" , Pluto TV Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" , Pluto TV Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" , Pluto TV Kids (Spain)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=910&deviceId=5f1aab1d29b39600073e243f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" , Pluto TV Kids Animation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=976&deviceId=5db0ad56edc89300090d2ebb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" , Pluto TV Kids Animation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png" , Pluto TV Kids Collection
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG.png" , Pluto TV Kids Séries
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG.png" , Pluto TV Kids Séries
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG.png" , Pluto TV Kids Séries+
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ebe299d30c0007b1f12a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c89d040-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f06f039-4f3e-499b-a415-5cf7148a64d7&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5dc02ece31f6050009de4b39/colorLogoPNG.png" , Pluto TV Mario vs Sonic
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=7ecc4d45-0714-11eb-9b92-0242ac110002&deviceId=5dc02ece31f6050009de4b39&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5dc02ece31f6050009de4b39/colorLogoPNG.png" , Pluto TV Mario vs Sonic
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" , Pluto TV Nick
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&coppa=1
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" , Pluto TV Nick
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" , Pluto TV Nick (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" , Pluto TV Nick
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede448d3d50590007a4419e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" , Pluto TV Nick (Germany)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=261&deviceId=5ede448d3d50590007a4419e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.2993&deviceLon=9.4910&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" , Pluto TV Nick Clásico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f4796368174910007756454/colorLogoPNG.png" , Pluto TV Nick Emma einfach magisch!
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=db62fa8b-15bd-11eb-bde1-0242ac110002&deviceId=5f4796368174910007756454&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f4796368174910007756454/colorLogoPNG.png" , Pluto TV Nick Emma einfach magisch!
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4796368174910007756454/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" , Pluto TV Nick HD
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" , Pluto TV Nick Jr. (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" , Pluto TV Nick Jr.
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=d1d4cf70-0714-11eb-a59f-0242ac110002&deviceId=5ede45451dce190007ef9ff2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" , Pluto TV Nick Jr.
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" , Pluto TV Nick Jr. Club
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" , Pluto TV Nick Jr. Club
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" , Pluto TV Nick Jr. Club (Brazil)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" , Pluto TV Nick Jr. Latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=998&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" , Pluto TV Nick Latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5ed106ce4bf2e80007700bb3/colorLogoPNG.png" , Pluto TV Nick Rewind
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1f8c3bd8-0715-11eb-97af-0242ac110002&deviceId=5ed106ce4bf2e80007700bb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5ed106ce4bf2e80007700bb3/colorLogoPNG.png" , Pluto TV nickrewind+
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2bcd0fadc30007b4863b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=26a921c8-2009-4fa8-9d4f-3edbe18a97f7&deviceId=5f3d2bcd0fadc30007b4863b&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/3ShjHPk.png" , Pluto TV Pluto After School Cartoons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" , Pluto TV Retro Toons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=886c7aee-0585-11eb-8b9f-0242ac110002&deviceId=5e1c669094e0e80009b22ab8&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" , Pluto TV Rugrats Crecidos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5e8b5ba20af628000707cee3/colorLogoPNG.png" , Pluto TV Sam & Cat
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5ba20af628000707cee3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" , Pluto TV SpongeBob Schwammkopf
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=715c465f-0715-11eb-a18c-0242ac110002&deviceId=5d00e8adaab96b5635b2a005&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" , Pluto TV SpongeBob Schwammkopf
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" , Pluto TV Teen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" , Pluto TV Teen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=9c22837c-0715-11eb-9b92-0242ac110002&deviceId=5f0d668b872e4400073acc68&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" , Pluto TV Teen
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png" , Pluto TV TEEN SERIES
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png" , Pluto TV TEEN SERIES
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png" , Pluto TV Teen Stars
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" , Pluto TV Toons Clásico
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" , Pluto TV Totally Turtles
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=983&deviceId=5d0c16d686454ead733d08f8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" , Pluto TV Totally Turtles (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" , Pluto TV Totally Turtles
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",  tvg-logo="http://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" , Pluto TV Tween
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=991&deviceId=5db0ae5af8797b00095c0794&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://i.imgur.com/Ki7zVmW.png" , Qubo (720p)
-http://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" , Rotana Kids (1080p) [Geo-blocked]
-https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
-#EXTINF:-1 group-title="KIDS",  tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" , Rotana Kids (1080p)
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 group-title="RELIGI"tvg-logo="http://kamiselaluada.com/img/mta.png" , MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+#EXTINF:-1 group-title="GAYA HIDUP"tvg-logo="https://bit.ly/2ORE2Tf" , Max 2U
+#EXTINF:-1 group-title="GAYA HIDUP"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuD_S0_20ac07FrdsaaFrG3YxWChqneRSUw&usqp=CAU" , The Design Network
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="GAYA HIDUP"tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" , Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 group-title="GAYA HIDUP"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCRdCCrc2Ta8CzVoq-kAWmSPsVJrPlxVrRXw&usqp=CAU" , UseePrime
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:-1 group-title="GAYA HIDUP"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ClYg-8QLofZJYn1V6YKQS1UdILNZGZQEnA&usqp=CAU" , Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+#EXTINF:-1 group-title="GAYA HIDUP"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf5M34G-H6LiF7cPTwCz3puaEmyynIwo_6rg&usqp=CAU" , Ruang Trampil
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
+#EXTINF:-1 group-title="GAYA HIDUP"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwqv6QqhCbBTCELbaJcRg1Zd1FDE5ntGuRXg&usqp=CAU" , Wakuwaku japan
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+#EXTINF:-1 group-title="GAYA HIDUP"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2pvexX2XDYZRZqkWjcZcJOiF2Duo-WLciBg&usqp=CAU" , Hollywire
+https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="GAYA HIDUP"tvg-logo="http://kamiselaluada.com/img/duniagames.png" , Dunia Games TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+#EXTINF:-1 group-title="GAYA HIDUP"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYkJsOeHxpW6yhN8n1mtfpiWpIO5Sb5sAN6g&usqp=CAU" , Tech storm
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://i.ibb.co/bmLNjpD/dw.png" , DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" , Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" , Asian Food Channel
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" , National Geographic Channel
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_wild_us.png" , Nat Geo Wild
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg" , CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://i.ibb.co/8KqHtTK/Outdoor-Channel.jpg" , Outdoor
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/eroz_brebes.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTblfnHv_IDyyH0Ae7HRCr4CsVhB3Kt0Ei0Tg&usqp=CAU" , YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2095627144.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" , Natural TV
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png" , Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://i.imgur.com/iJldO7U.jpg" , NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN"tvg-logo="https://i.imgur.com/U8GADbT.jpg" , Planet Knowledge
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",  ,SAT-7 KIDS (720p)
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="KIDS",  ,Shemaroo Kids
@@ -587,18 +439,20 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="MOVIES", Thrill
 http://rr2.dens.tv/s/s34/index2.m3u8
-#EXTINF:-1 group-title="MOVIES",  tvg-logo="http://iptv.lancartech.co.id:8080/images/076544dccc9c836d2b127812112e0eb2.png" , HITS AXC-myid
+#EXTINF:-1 group-title="MOVIES",  tvg-logo="http://iptv.lancartech.co.id:8080/images/076544dccc9c836d2b127812112e0eb2.png" , HITS
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
-#EXTINF:-1 group-title="MOVIES",  tvg-logo="http://iptv.lancartech.co.id:8080/images/305c809b588b10b192a21741e7df34e7.png" , HITS Movies AXC-myid
+#EXTINF:-1 group-title="MOVIES",  tvg-logo="http://iptv.lancartech.co.id:8080/images/305c809b588b10b192a21741e7df34e7.png" , HITS MOVIES
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
 #EXTINF:-1 group-title="MOVIES",  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" , Celestial Movies (480p)
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+http://210.210.155.35/session/e7909dc0-0978-11ec-b7e6-a58aba914234/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="MOVIES" ,CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES"  ,tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="tvnmovies.id" tvg-name="tvN Movies AXC" tvg-logo="https://images.useetv.com/logo_tvnmovies_big.png" ,tvN Movies 
-http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
+http://210.210.155.35/session/fb51e2b0-0978-11ec-a30a-97c3970806d2/dr9445/h/h21/01.m3u8
+#EXTINF:-1 group-title="MOVIES"tvg-logo="https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg" , One
+http://210.210.155.35/session/a97979de-0979-11ec-8b18-ab84a54df557/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
 #EXTINF:-1 group-title="OLAHRAGA",  ,ASTRO ARENA 
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RcdSXmC65OE7ufo2zh6_hHBr1zsKachCCA&usqp=CAU" group-title="OLAHRAGA",MNC SPORT
@@ -623,3 +477,69 @@ http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU"  group-title="OLAHRAGA",UFC 2
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",ABC
+http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",A&E
+http://31.220.41.88:8081/live/us-ae.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",AMC
+http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",CBS
+http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",COMEDY CENTRAL
+http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",DAVE
+http://31.220.41.88:8081/live/dave.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",FOX
+http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",FX
+http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",FXX
+http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",FREEFORM
+http://31.220.41.88:8081/live/us-freeform.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",SYFY
+http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",TBS
+http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",TNT
+http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",USA NETWORK
+http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",CINEMAX
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",HALLMARK
+http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",HBO
+http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",LIFETIME
+http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",PARAMOUNT
+http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",SHOWTIME
+http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",SKY MOVIES PREMIERE
+http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",BOOMERANG
+http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",CARTOON NETWORK
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",DISNEY
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",DISNEY XD
+http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",Nick
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",Animal Planet
+http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png" , DISCOVERY CHANNEL
+http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",Bein Sports
+http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",ESPN
+http://31.220.41.88:8081/live/espnusahd.stream/chunks.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",ESPN 2
+http://31.220.41.88:8081/live/espn2hd.stream/chunks.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",FS2
+http://31.220.41.88:8081/live/foxsports2.stream/chunks.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="DUNIA",ABC NEWS
+http://31.220.41.88:8081/live/us-abcnews.stream/playlist.m3u8?token=null
