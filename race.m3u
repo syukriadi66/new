@@ -104,8 +104,10 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" , KBS II
 http://121.130.210.101:9981/stream/channelid/637185705
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" , Asian Food Channel
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" , Food Channel
+https://food.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-country="IT" tvg-logo="https://i.imgur.com/RuuGNzX.png" group-title="ITALY",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" , Animal Planet
 http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8LVfl3p1NbdhccN2yPu7HKrFTxKKfx8m3A&usqp=CAU" group-title="KNOWLEDGE",Discovery DMAX IT
@@ -122,14 +124,10 @@ http://hbox.cdnss.me:80/live/bestcs/bestcs/4983.m3u8
 https://lnc-people-tv.tubi.video/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="KNOWLEDGE",Local Now : People TV HD
 https://peopletv-oo.akamaized.net/playlist720p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA2I8M33-x-FblZR4FDDZtawSmGdp67n8_w&usqp=CAU" group-title="KNOWLEDGE",Fail Army UN
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA2I8M33-x-FblZR4FDDZtawSmGdp67n8_w&usqp=CAU" group-title="KNOWLEDGE",Fail Army
 https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA2I8M33-x-FblZR4FDDZtawSmGdp67n8_w&usqp=CAU" group-title="KNOWLEDGE",Fail Army US
-https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/H2EAcw8.png" group-title="KNOWLEDGE",People are awesome UN
-https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/1200.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/H2EAcw8.png" group-title="KNOWLEDGE",People are awesome US
-https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/8fe64d6c-210c-42ac-8b42-8006b8721cf4/3.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/H2EAcw8.png" group-title="KNOWLEDGE",People are awesome
+https://jukin-peopleareawesome-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="KNOWLEDGE",Inwild TV
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkI2GSj_zAGbtbqZE6b_fmjuo9lSV5aEQmSQ&usqp=CAU" group-title="KNOWLEDGE",Love Nature HD
