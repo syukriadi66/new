@@ -41,6 +41,46 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" , CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJvX1pw31OmnmlBq-XIw3-5-Qfuhuk0Pysg&usqp=CAU" , Astro Ria
+http://198.16.106.61:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" , Astro Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" , Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" , Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" , Naura HD
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png" , Astro Xiao Tai Yang HD
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png" , Astro Shuang Xing 双星台
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png" , Astro Quan Jia 全佳
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" , Astro Prima CH105
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" , Astro Oasis CH106
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" , Astro Citra CH108
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" , Naura HD CH109
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://static02.astro.com.my/astro/media/astromain/ceria/home/channellogo-astroceria2.png" , Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png" , Suria CH110
+http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://marketingmagazine.com.my/wp-content/uploads/2016/11/Boo_From_Astrothumbnail.jpg" , Astro BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" , Astro Xuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.nicepng.com/png/detail/306-3060926_astroxiaotaiyang-astro-xiao-tai-yang.png" , Astro Xiao Tai Yang
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmqpjmh0R5BcyV9CWUubeDiC4HKHog9wOIQ&usqp=CAU", Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" , Drama Sangat
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeunk8zsXxPiqk_9Ck04QfqOuPfnWWlKxifg&usqp=CAU" , TV IKLIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkjX0oq6NuVH_XT10LdY8f6KUK7xq33Q-sg&usqp=CAU" , MGI TV
 https://tv.rodja.live/tasik/ngrp:mgitv_all/chunklist_w294720174_b1396000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkjX0oq6NuVH_XT10LdY8f6KUK7xq33Q-sg&usqp=CAU" , MUADZTV
@@ -119,7 +159,7 @@ http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-id="natgeowild.pl" tvg-name="PL: Nat Geo Wild HD" tvg-logo="http://logo.sltv.site/logo/POLONIA/NATGEOWILD.png" group-title="KNOWLEDGE",Nat Geo Wild HD
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="PL: Nat Geo People HD" tvg-logo="http://logo.sltv.site/logo/POLONIA/NATGEOPEOPLEHD.png" group-title="KNOWLEDGE",Nat Geo People HD
-http://hbox.cdnss.me:80/live/bestcs/bestcs/4983.m3u8
+http://main.pompaliyoruzke.net:8080/Ds9LxfMpkq/TbNUd1fsCt/4835?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="KNOWLEDGE",Local Now : People TV
 https://lnc-people-tv.tubi.video/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="KNOWLEDGE",Local Now : People TV HD
@@ -145,7 +185,9 @@ http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/U8GADbT.jpg" , Planet Knowledge
 https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" , Outdoor Channel HD
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="KNOWLEDGE",Outdoor America
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScugilFdsByokNpG-93TLEHFyXK6d7dArpiQ&usqp=CAU" , Animax
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
