@@ -1,66 +1,285 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="|AR| CANAL+ SPORT  HD" tvg-logo="https://i.ibb.co/YXC7Wgy/HD8.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| CANAL+ SPORT  HD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/809
-#EXTINF:-1 tvg-id="" tvg-name="|AR| RMC SPORT 1 HD" tvg-logo="https://i.ibb.co/zX4TC60/HD9.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| RMC SPORT 1 HD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/810
-#EXTINF:-1 tvg-id="" tvg-name="|AR| RMC SPORT 2 HD" tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| RMC SPORT 2 HD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/811
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BeINSPORTS 1 PREMIUM FHD" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BeINSPORTS 1 PREMIUM FHD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/817
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BeINSPORTS 2 PREMIUM FHD" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BeINSPORTS 2 PREMIUM FHD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/818
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BeINSPORTS 3 PREMIUM FHD" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BeINSPORTS 3 PREMIUM FHD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/819
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 1 PREMIUM HD" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORTS 1 PREMIUM HD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/799
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 2 PREMIUM HD" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORTS 2 PREMIUM HD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/800
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 3 PREMIUM HD" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORTS 3 PREMIUM HD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/801
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 SD PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 1 SD PREMIUM
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/847
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 SD PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 2 SD PREMIUM
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/848
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 SD PREMIUM" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 3 SD PREMIUM
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/849
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT 1 SD  1M" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT 1 SD  1M
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/850
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 SD  1M" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 2 SD  1M
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/851
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 SD  1M" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 3 SD  1M
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/852
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 4 SD  1M" tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 4 SD  1M
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/853
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 5 SD  1M" tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 5 SD  1M
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/854
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 6 SD  1M" tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 6 SD  1M
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/855
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 7 SD  1M" tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 7 SD  1M
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/856
-#EXTINF:-1 tvg-id="" tvg-name="|AR| |AR| CANAL+ SPORT SD" tvg-logo="https://i.ibb.co/YXC7Wgy/HD8.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| |AR| CANAL+ SPORT SD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/857
-#EXTINF:-1 tvg-id="" tvg-name="|AR| RMC SPORT 1 SD" tvg-logo="https://i.ibb.co/zX4TC60/HD9.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| RMC SPORT 1 SD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/858
-#EXTINF:-1 tvg-id="" tvg-name="|AR| RMC SPORT 2 SD" tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| RMC SPORT 2 SD
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/859
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 LOW PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 1 LOW PREMIUM
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/860
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 LOW PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 2 LOW PREMIUM
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/861
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 LOW PREMIUM" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 3 LOW PREMIUM
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/862
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 1" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT LOW 1
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/863
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 2" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT LOW 2
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/864
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 3" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT LOW 3
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/865
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 4" tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT LOW 4
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/866
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 5" tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT LOW 5
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/867
-#EXTINF:-1 tvg-id="" tvg-name="bein sport xtra 01 hd" tvg-logo="" group-title="1قنوات بين سبور BEIN SPORT",bein sport xtra 01 hd
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/869
-#EXTINF:-1 tvg-id="" tvg-name="bein sport xtra 02 hd" tvg-logo="" group-title="1قنوات بين سبور BEIN SPORT",bein sport xtra 02 hd
-http://65.21.32.185:80/1airmaxtvben22/P0bYWZXuQn/870
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs1-premium.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 01 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 02 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs2-premium.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 02 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 03 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs3-premium.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 03 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 01 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs1.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 01 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 02 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs2.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 02 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 03 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs3.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 03 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 04 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs4.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 04 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 05 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs5png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 05 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs6.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 06 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs7.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 07 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 01 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs1-en.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports English 01 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 02 HD" tvg-logo="https://epg.beinsports.com/mena_sports/bs2-en.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports English 02 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs1-premium.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 01 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 02 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs2-premium.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 02 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 03 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs3-premium.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 03 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 01 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs1.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 01 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 02 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs2.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 02 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 03 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs3.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 03 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 04 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs4.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 04 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 05 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs5.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 05 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs6.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 06 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs7.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 07 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 01 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs1-en.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports English 01 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 02 FHD" tvg-logo="https://epg.beinsports.com/mena_sports/bs2-en.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports English 02 FHD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 01 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 02 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 02 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 03 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 03 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 01 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 01 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 02 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 02 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 03 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 03 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 04 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 04 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 05 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 05 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 06 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 07 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 01 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports English 01 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 02 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports English 02 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 03 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports English 03 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 01 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports French 01 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 02 HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports French 02 HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports NBA HD [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports NBA HD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 4K [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 01 4K [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 02 4K [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 02 4K [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 03 4K [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 03 4K [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 01 4K [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 01 4K [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 02 4K [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 02 4K [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 03 4K [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 03 4K [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 04 4K [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 04 4K [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 05 4K [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 05 4K [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06 4K [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 06 4K [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 4K [VIP]" tvg-logo="" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 07 4K [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 01 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 02 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 02 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 03 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 03 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 01 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 01 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 02 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 02 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 03 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 03 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN PORTS 04 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN PORTS 04 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN PORTS 05 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN PORTS 05 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 06 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 07 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 01 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports English 01 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 02 SD [VIP]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports English 02 SD [VIP]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 01 FHD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 02 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 02 FHD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 03 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 03 FHD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 01 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 01 FHD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 02 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 02 FHD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 03 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 03 FHD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 04 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 04 FHD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 05 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 05 FHD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 06 FHD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 07 FHD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 01 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 02 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 02 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 03 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 03 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 01 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 01 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 02 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 02 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 03 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 03 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 04 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 04 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 05 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 05 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 06 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 07 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 01 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports English 01 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 02 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports English 02 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 03 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports English 03 HD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 SD [Gold]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 01 SD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 02 SD [Gold]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 02 SD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 03 SD [Gold]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 03 SD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 01 SD [Gold]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 01 SD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 02 SD [Gold]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 02 SD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 03 SD [Gold]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 03 SD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 04 SD [Gold]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 04 SD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 05 SD [Gold]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 05 SD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06 SD [Gold]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 06 SD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 SD [Gold]" tvg-logo="" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 07 SD [Gold]
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports Premium 01 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 02 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports Premium 02 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 03 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports Premium 03 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 01 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports 01 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 02 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports 02 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 03 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports 03 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 04 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports 04 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 05 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports 05 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports 06 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports 07 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 01 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports English 01 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 02 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports English 02 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 03 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports English 03 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 01 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports French 01 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 02 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports French 02 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports NBA 4K" tvg-logo="" group-title="BEIN SPORTS 4K- بي إن سبورت",beIN Sports NBA 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 HEVC" tvg-logo="" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports Premium 01 HEVC
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 02 HEVC" tvg-logo="" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports Premium 02 HEVC
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 03 HEVC" tvg-logo="" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports Premium 03 HEVC
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 01 HEVC" tvg-logo="" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 01 HEVC
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 02 HEVC" tvg-logo="" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 02 HEVC
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 03 HEVC" tvg-logo="" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 03 HEVC
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 04 HEVC" tvg-logo="" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 04 HEVC
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 05 HEVC" tvg-logo="" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 05 HEVC
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06 HEVC" tvg-logo="" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 06 HEVC
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 HEVC" tvg-logo="" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 07 HEVC
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra 1 4K" tvg-logo="" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 1 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/97375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra 2 4K" tvg-logo="" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 2 4K
+http://s1.urhdiptv.net:8080/live/mma2/45212156/97374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra 1 HD" tvg-logo="" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 1 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/97373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra 2 HD" tvg-logo="" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 2 HD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/97372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra 1 SD" tvg-logo="" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 1 SD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/97371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra 2 SD" tvg-logo="" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 2 SD
+http://s1.urhdiptv.net:8080/live/mma2/45212156/97370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 01 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports Premium 01 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 02 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports Premium 02 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 03 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports Premium 03 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 01 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 01 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 02 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 02 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 03 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 03 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 04 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 04 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 05 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 05 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 06 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 07 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 07 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 01 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports English 01 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 02 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports English 02 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 03 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports English 03 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 01 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports French 01 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 02 Low" tvg-logo="" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports French 02 Low
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80140.m3u8
