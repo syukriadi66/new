@@ -1,87 +1,46 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="canal.plus.fr" tvg-name="|FR| CANAL+ H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/CANAL.png" group-title="FRANCE HEVC | OTT",|FR| CANAL+ H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36687.m3u8
-#EXTINF:-1 tvg-id="canal.plus.cinema.fr" tvg-name="|FR| CANAL+ CINEMA H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/CANALCINEMA.png" group-title="FRANCE HEVC | OTT",|FR| CANAL+ CINEMA H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36688.m3u8
-#EXTINF:-1 tvg-id="canal.plus.decale.fr" tvg-name="|FR| CANAL+ DECALE H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/CANADECALE.png" group-title="FRANCE HEVC | OTT",|FR| CANAL+ DECALE H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36689.m3u8
-#EXTINF:-1 tvg-id="canal.plus.family.fr" tvg-name="|FR| CANAL+ KIDS H265" tvg-logo="https://pic.tvtrips.xyz/canal/CANALKIDSHEVC.png" group-title="FRANCE HEVC | OTT",|FR| CANAL+ KIDS H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36690.m3u8
-#EXTINF:-1 tvg-id="canal.plus.series.fr" tvg-name="|FR| CANAL+ SERIES H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/CANALSERIES.png" group-title="FRANCE HEVC | OTT",|FR| CANAL+ SERIES H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36691.m3u8
-#EXTINF:-1 tvg-id="canal.plus.sport.fr" tvg-name="|FR| CANAL+ SPORT H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/CANALSPORT.png" group-title="FRANCE HEVC | OTT",|FR| CANAL+ SPORT H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36692.m3u8
-#EXTINF:-1 tvg-id="cine.plus.premier.fr" tvg-name="|FR| CINE+ PREMIER H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/CINEPREMIER.png" group-title="FRANCE HEVC | OTT",|FR| CINE+ PREMIER H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36693.m3u8
-#EXTINF:-1 tvg-id="cine.plus.famiz.fr" tvg-name="|FR| CINE+ FAMIZ H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/CINEFAMIZ.png" group-title="FRANCE HEVC | OTT",|FR| CINE+ FAMIZ H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36694.m3u8
-#EXTINF:-1 tvg-id="cine.plus.frisson.fr" tvg-name="|FR| CINE+ FRISSON H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/CINEFRISSON.png" group-title="FRANCE HEVC | OTT",|FR| CINE+ FRISSON H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36695.m3u8
-#EXTINF:-1 tvg-id="cine.plus.emotion.fr" tvg-name="|FR| CINE+ EMOTION H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/CINEEMOTION.png" group-title="FRANCE HEVC | OTT",|FR| CINE+ EMOTION H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36696.m3u8
-#EXTINF:-1 tvg-id="cine.plus.club.fr" tvg-name="|FR| CINE+ CLUB H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/CINECLUB.png" group-title="FRANCE HEVC | OTT",|FR| CINE+ CLUB H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36697.m3u8
-#EXTINF:-1 tvg-id="cine.plus.classic.fr" tvg-name="|FR| CINE+ CLASSIC H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/CINECLASSIC.png" group-title="FRANCE HEVC | OTT",|FR| CINE+ CLASSIC H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36698.m3u8
-#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name="|FR| OCS CHOC H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/OCSCHOC.png" group-title="FRANCE HEVC | OTT",|FR| OCS CHOC H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36699.m3u8
-#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name="|FR| OCS CITY H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/OCSCITY.png" group-title="FRANCE HEVC | OTT",|FR| OCS CITY H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36700.m3u8
-#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="|FR| OCS GEANTS H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/OCSGEANTS.png" group-title="FRANCE HEVC | OTT",|FR| OCS GEANTS H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36701.m3u8
-#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name="|FR| OCS MAX H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCEH265/OCSMAX.png" group-title="FRANCE HEVC | OTT",|FR| OCS MAX H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36702.m3u8
-#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="|FR| RMC SPORT 2 H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUUQET-RMC-SPORT/rmcsport.png" group-title="FRANCE HEVC | OTT",|FR| RMC SPORT 2 H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36766.m3u8
-#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="|FR| RMC SPORT 3 H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUUQET-RMC-SPORT/rmcsport.png" group-title="FRANCE HEVC | OTT",|FR| RMC SPORT 3 H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36767.m3u8
-#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="|FR| RMC SPORT 4 H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUUQET-RMC-SPORT/rmcsport.png" group-title="FRANCE HEVC | OTT",|FR| RMC SPORT 4 H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36768.m3u8
-#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="|FR| BEIN SPORTS 1 H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="FRANCE HEVC | OTT",|FR| BEIN SPORTS 1 H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36771.m3u8
-#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="|FR| BEIN SPORTS 2 H265" tvg-logo="http://pic.roll-tv.com/FRANCE-H265-OTT/BEINSPORT2H265.png" group-title="FRANCE HEVC | OTT",|FR| BEIN SPORTS 2 H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36772.m3u8
-#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="|FR| BEIN SPORTS 3 H265" tvg-logo="http://pic.roll-tv.com/FRANCE-H265-OTT/BEINSPORT3H265.png" group-title="FRANCE HEVC | OTT",|FR| BEIN SPORTS 3 H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36773.m3u8
-#EXTINF:-1 tvg-id="canal.plus.fr" tvg-name="|FR| CANAL+ SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCESD/CANAL.png" group-title="FRANCE SD | OTT",|FR| CANAL+ SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36587.m3u8
-#EXTINF:-1 tvg-id="canal.plus.family.fr" tvg-name="|FR| CANAL+ KIDS SD" tvg-logo="https://pic.tvtrips.xyz/canal/CANALKIDSSD.png" group-title="FRANCE SD | OTT",|FR| CANAL+ KIDS SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36588.m3u8
-#EXTINF:-1 tvg-id="canal.plus.decale.fr" tvg-name="|FR| CANAL+ DECALE SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCESD/CANALDECALE.png" group-title="FRANCE SD | OTT",|FR| CANAL+ DECALE SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36589.m3u8
-#EXTINF:-1 tvg-id="canal.plus.series.fr" tvg-name="|FR| CANAL+ SERIES SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCESD/CANALSERIES.png" group-title="FRANCE SD | OTT",|FR| CANAL+ SERIES SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36590.m3u8
-#EXTINF:-1 tvg-id="canal.plus.sport.fr" tvg-name="|FR| CANAL+ SPORT SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCESD/CANALSPORT.png" group-title="FRANCE SD | OTT",|FR| CANAL+ SPORT SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36591.m3u8
-#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name="|FR| OCS CHOC SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCESD/OCSCHOC.png" group-title="FRANCE SD | OTT",|FR| OCS CHOC SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36592.m3u8
-#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name="|FR| OCS CITY SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCESD/OCSCITY.png" group-title="FRANCE SD | OTT",|FR| OCS CITY SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36593.m3u8
-#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="|FR| OCS GEANTS SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCESD/OCSGEANTS.png" group-title="FRANCE SD | OTT",|FR| OCS GEANTS SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36594.m3u8
-#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name="|FR| OCS MAX SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQUET-FRANCESD/ocsmax.png" group-title="FRANCE SD | OTT",|FR| OCS MAX SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36595.m3u8
-#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="|FR| RMC SPORT 1 H265" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUUQET-RMC-SPORT/rmcsport.png" group-title="FRANCE HEVC | OTT",|FR| RMC SPORT 1 H265
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 1 SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUUQET-RMC-SPORT/rmcsport.png" group-title="FRANCE SD | OTT",|FR| RMC SPORT 1 SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 2 SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUUQET-RMC-SPORT/rmcsport.png" group-title="FRANCE SD | OTT",|FR| RMC SPORT 2 SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUUQET-RMC-SPORT/rmcsport.png" group-title="FRANCE SD | OTT",|FR| RMC SPORT 3 SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36644.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 4 SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUUQET-RMC-SPORT/rmcsport.png" group-title="FRANCE SD | OTT",|FR| RMC SPORT 4 SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT ACCESS 1 SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUUQET-RMC-SPORT/rmcsport.png" group-title="FRANCE SD | OTT",|FR| RMC SPORT ACCESS 1 SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT ACCESS 2 SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUUQET-RMC-SPORT/rmcsport.png" group-title="FRANCE SD | OTT",|FR| RMC SPORT ACCESS 2 SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT ACCESS 3 SD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUUQET-RMC-SPORT/rmcsport.png" group-title="FRANCE SD | OTT",|FR| RMC SPORT ACCESS 3 SD
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/36648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR SPORTS 1" tvg-logo="" group-title="INDIA | OTT",|IN| STAR SPORTS 1
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/218155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR SPORTS 2" tvg-logo="" group-title="INDIA | OTT",|IN| STAR SPORTS 2
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/218156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR SPORTS SELECT 2" tvg-logo="" group-title="INDIA | OTT",|IN| STAR SPORTS SELECT 2
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/218157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR SPORTS SELECT 1" tvg-logo="" group-title="INDIA | OTT",|IN| STAR SPORTS SELECT 1
-http://m3u.rapid-ott.com:8080/live/3173434353113478/2598854265/218158.m3u8
+#EXTINF:-1 tvg-id="SPORTV1HD." tvg-name="Sport TV 1 ˢᵈ" tvg-logo="https://i.ibb.co/qWgRCng/st1s.png" group-title="PORTUGAL GOLD",Sport TV 1 ˢᵈ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/69.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 ˢᵈ" tvg-logo="https://i.ibb.co/hX6XJwV/st2s.png" group-title="PORTUGAL GOLD",Sport TV 2 ˢᵈ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/73.m3u8
+#EXTINF:-1 tvg-id="SPTV3" tvg-name="Sport TV 3 ˢᵈ" tvg-logo="https://i.ibb.co/GRCg4VQ/st3s.png" group-title="PORTUGAL GOLD",Sport TV 3 ˢᵈ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/77.m3u8
+#EXTINF:-1 tvg-id="SPTV4" tvg-name="Sport TV 4 ˢᵈ" tvg-logo="https://i.ibb.co/Bnx3MM0/stes.png" group-title="PORTUGAL GOLD",Sport TV 4 ˢᵈ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/80.m3u8
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport TV 5 ˢᵈ" tvg-logo="https://i.ibb.co/p2Nk5zm/st5s.png" group-title="PORTUGAL GOLD",Sport TV 5 ˢᵈ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/83.m3u8
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR: RMC Sport 1 ᴴᴰ'" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/799px-Logo_RMC_Sport_1_2018.svg.png" group-title="FRANCE",FR: RMC Sport 1 ᴴᴰ'
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/335.m3u8
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR: RMC Sport 1 ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/799px-Logo_RMC_Sport_1_2018.svg.png" group-title="FRANCE",FR: RMC Sport 1 ˢᵈ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/336.m3u8
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR: RMC Sport 2 ᴴᴰ'" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/799px-Logo_RMC_Sport_2_2018.svg.png" group-title="FRANCE",FR: RMC Sport 2 ᴴᴰ'
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/337.m3u8
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR: RMC Sport 2 ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="FRANCE",FR: RMC Sport 2 ˢᵈ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/338.m3u8
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="FR: RMC Sport 3 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="FRANCE",FR: RMC Sport 3 ᴴᴰ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/339.m3u8
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="FR: RMC Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="FRANCE",FR: RMC Sport 3
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT ACCESS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="FRANCE",FR: RMC SPORT ACCESS 3
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/341.m3u8
+#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="FR: RMC Sport 4 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="FRANCE",FR: RMC Sport 4 ᴴᴰ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/342.m3u8
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORTS 1 ᴴᴰ'" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_beIN_SPORTS_1.png/800px-Logo_beIN_SPORTS_1.png" group-title="FRANCE",FR: BEIN SPORTS 1 ᴴᴰ'
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/357.m3u8
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORTS 1 ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_beIN_SPORTS_1.png/800px-Logo_beIN_SPORTS_1.png" group-title="FRANCE",FR: BEIN SPORTS 1 ˢᵈ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/358.m3u8
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORTS 2 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Logo_beIN_SPORTS_2.png/800px-Logo_beIN_SPORTS_2.png" group-title="FRANCE",FR: BEIN SPORTS 2 ᴴᴰ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/359.m3u8
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORTS 2" tvg-logo="http://www.mediafire.com/convkey/80ba/6fbw1lb47dxvsz7zg.jpg" group-title="FRANCE",FR: BEIN SPORTS 2
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/360.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORTS 3 ᴴᴰ" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/france-5-logo-3.png" group-title="FRANCE",FR: BEIN SPORTS 3 ᴴᴰ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/361.m3u8
+#EXTINF:-1 tvg-id="TF1-FR" tvg-name="FR: BEIN SPORTS 3" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 3
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/362.m3u8
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL + SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-1280px-Canal%2B_Sport_%282013%29.svg.png" group-title="FRANCE",FR: CANAL + SPORT
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/384.m3u8
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL + SPORT ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-1280px-Canal%2B_Sport_%282013%29.svg.png" group-title="FRANCE",FR: CANAL + SPORT ᴴᴰ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/383.m3u8
+#EXTINF:-1 tvg-id="canalplusligue1.fr" tvg-name="FR: CANAL+ SPORT 2 ᴴᴰ ( LIGUE 1 )" tvg-logo="https://e7.pngegg.com/pngimages/790/714/png-clipart-television-channel-canal-sport-others-television-text.png" group-title="FRANCE",FR: CANAL+ SPORT 2 ᴴᴰ ( LIGUE 1 )
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/43986.m3u8
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR: CANAL + ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Canal%2B_HD_Polska_logo_2011.png" group-title="FRANCE",FR: CANAL + ˢᵈ
+http://secretv.io:8080/live/Fabioeau2/W9aTIYBCPW/493.m3u8
